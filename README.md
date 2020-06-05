@@ -1,3 +1,3 @@
 # buscard
 
-Simple HTML file that looks like a business card on mobile phones.
+Simple HTML business card.
